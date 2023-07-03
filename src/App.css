@@ -1,0 +1,6 @@
+.scroll-up {
+    position: fixed;
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+}

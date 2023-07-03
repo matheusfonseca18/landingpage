@@ -1,0 +1,31 @@
+.Sec2 {
+  display: flex;
+  align-items: flex-start;
+  padding: 1rem;
+  justify-content: center;
+}
+
+.sec-titu, .sec-sub {
+  margin-left: 1rem;
+}
+
+.conteudo {
+    width: 50%;
+    word-break:break-all;
+    padding: 1rem;
+}
+
+.lista {
+    list-style:none;
+    line-height: 2rem;
+    word-wrap: normal;
+    padding-left: 1rem;
+}
+
+.ilustra {
+
+  width: 45rem;
+  margin-left: 1rem;
+}
+
+

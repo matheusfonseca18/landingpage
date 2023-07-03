@@ -1,0 +1,9 @@
+.footer {
+    background-color: grey;
+    border-top: solid 0.2rem black;
+text-align: center;
+height: 10rem;
+color: aliceblue;
+padding-top: 4rem;
+}
+

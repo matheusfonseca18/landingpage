@@ -1,0 +1,128 @@
+.Sec1,
+.isso {
+  padding: 4rem 0;
+  background-color: rgb(75, 90, 255);
+  color: white;
+}
+
+.benef {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.isso {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+div.quadr1,
+.quadr2,
+.quadr3,
+.quadr4 {
+  border: solid 0.2rem rgb(255, 255, 255);
+  height: 20rem;
+  width: 15rem;
+  text-align: center;
+  padding: 1rem;
+  background-color: blue;
+  transition: 0.5s;
+  border-radius: 5%;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+div.muda1 {
+  background-color: rgb(75, 90, 255);
+  border: solid 0.2rem orange;
+  scale: 1.1;
+}
+
+p.normal1 {
+  display: none;
+}
+
+img.normal1 {
+  width: 10rem;
+  margin-top: 2rem;
+}
+
+p.muda1 {
+  display: block;
+}
+
+img.muda1 {
+  display: none;
+}
+
+div.muda2 {
+  background-color: rgb(75, 90, 255);
+  scale: 1.1;
+  border: solid 0.2rem orange;
+}
+
+p.normal2 {
+  display: none;
+}
+
+img.normal2 {
+  width: 10rem;
+  margin-top: 2rem;
+}
+
+p.muda2 {
+  display: block;
+}
+
+img.muda2 {
+  display: none;
+}
+
+div.muda3 {
+  background-color: rgb(75, 90, 255);
+  scale: 1.1;
+  border: solid 0.2rem orange;
+}
+
+p.normal3 {
+  display: none;
+}
+
+img.normal3 {
+  margin-top: 2rem;
+  width: 10rem;
+}
+
+p.muda3 {
+  display: block;
+}
+
+img.muda3 {
+  display: none;
+}
+
+div.muda4 {
+  background-color: rgb(75, 90, 255);
+  scale: 1.1;
+  border: solid 0.2rem orange;
+}
+
+p.normal4 {
+  display: none;
+}
+
+img.normal4 {
+  width: 10rem;
+  margin-top: 2rem;
+}
+
+p.muda4 {
+  display: block;
+}
+
+img.muda4 {
+  display: none;
+}
